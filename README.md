@@ -48,7 +48,7 @@ This repository includes a wordlist of payloads specifically designed for bypass
 
 ## Support My Work
 
-- If you want to support my work, feel free to DM me on Twitter at 0xSabir or contact me on WhatsApp at +923170975428. Your support means a lot and helps me continue sharing useful content!
+- If you want to support my work, feel free to DM me on Twitter at [0xSabir](https://x.com/0xSabir) or contact me on WhatsApp at +923170975428. Your support means a lot and helps me continue sharing useful content!
 
 ## Contributing
 
